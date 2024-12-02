@@ -1,0 +1,20 @@
+[
+   {
+      "question": "The rotational component &omega;<sub>z</sub> is given by",
+      "qid": 1,
+      "option_a": "<span style='display:inline-block;'>$$ \\frac{1}{2} \\left(\\frac{\\partial v}{∂x} - \\frac{∂u}{∂y}\\right) $$</span>",
+      "option_b": "<span style='display:inline-block;'>$$ \\frac{1}{2} \\left(\\frac{\\partial u}{∂x} - \\frac{∂v}{∂y}\\right) $$</span>",
+      "option_c": "<span style='display:inline-block;'>$$ \\frac{1}{2} \\left(\\frac{\\partial u}{∂x} + \\frac{∂v}{∂y}\\right) $$</span>",
+      "option_d": "<span style='display:inline-block;'>$$ \\frac{\\partial v}{∂x} - \\frac{∂u}{∂y} $$</span>",
+      "correct_option": "a"
+   },
+   {
+      "question": "Shear strain in x-y plain is given by",
+      "qid": 2,
+      "option_a": "<span style='display:inline-block;'>$$ \\frac{1}{2} \\left(\\frac{\\partial v}{∂x} - \\frac{∂u}{∂y}\\right) $$</span>",
+      "option_b": "<span style='display:inline-block;'>$$ \\frac{1}{2} \\left(\\frac{\\partial u}{∂x} - \\frac{∂v}{∂y}\\right) $$</span>",
+      "option_c": "<span style='display:inline-block;'>$$ \\frac{1}{2} \\left(\\frac{\\partial u}{∂x} + \\frac{∂v}{∂y}\\right) $$</span>",
+      "option_d": "<span style='display:inline-block;'>$$ \\frac{\\partial v}{∂x} - \\frac{∂u}{∂y} $$</span>",
+      "correct_option": "c"
+   }
+]
