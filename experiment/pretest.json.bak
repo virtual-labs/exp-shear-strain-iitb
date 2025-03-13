@@ -1,0 +1,29 @@
+[
+   {
+      "question": "If the density is constant the flow is said to be",
+      "qid": 1,
+      "option_a": "Irrotational flow",
+      "option_b": "Compressible flow",
+      "option_c": "Rotational flow",
+      "option_d": "Incompressible flow",
+      "correct_option": "d"
+   },
+   {
+      "question": "For steady flow which condition is most appropriate",
+      "qid": 2,
+      "option_a": "$$ \\frac{d \\mu}{dt} = 0  $$",
+      "option_b": "$$ \\frac{d \\rho}{dt} = 0 $$",
+      "option_c": "$$ \\frac{dp}{dt} = 0 $$",
+      "option_d": "$$ \\frac{du}{dt} = 0 $$ ",
+      "correct_option": "b"
+   },
+   {
+      "question": "If <span style='display: inline-block;'>$$ \\omega_z = 0 $$</span> then it represents",
+      "qid": 3,
+      "option_a": "Irrotational flow",
+      "option_b": "Rotational flow",
+      "option_c": "No flow",
+      "option_d": "Unsteady flow",
+      "correct_option": "a"
+   }
+]
